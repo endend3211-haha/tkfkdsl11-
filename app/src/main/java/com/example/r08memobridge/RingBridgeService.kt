@@ -1,6 +1,6 @@
 package com.example.r08memobridge
 
-accessibilityservice.AccessibilityService
+import android.accessibilityservice.AccessibilityService
 import android.accessibilityservice.GestureDescription
 import android.content.Context
 import android.content.Intent
