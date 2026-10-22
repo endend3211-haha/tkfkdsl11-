@@ -1,4 +1,5 @@
 name: Build Debug APK
+run: gradle assembleDebug --stacktrace
 
 on:
   push:
